@@ -1,5 +1,4 @@
 <?php
-
 error_reporting(E_ALL);
 $botToken = ''; // token
 $website = "https://api.telegram.org/bot" . $botToken;
